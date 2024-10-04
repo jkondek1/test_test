@@ -1,1 +1,1 @@
-print('bye, nothing left to do here. Really nothing.')
+print('bye')
